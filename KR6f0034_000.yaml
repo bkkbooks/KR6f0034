@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0034/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說如幻三昧經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0342.xml
+    old_id: T12n0342
+hash: sha256:cac1632824bcd58ea365d442314576a5a6e7207587fbc49f1ad0a9a40d41aec3
