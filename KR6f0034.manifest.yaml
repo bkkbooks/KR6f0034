@@ -46,7 +46,7 @@ assets:
   - {seq: 1, filename: KR6f0034_001.yaml, hash: 'sha256:10b045289165cfd6d3564f835aec4a1a01758f367ae11fc9b0cc75a5daeef1b4'}
   - {seq: 2, filename: KR6f0034_002.yaml, hash: 'sha256:409f3a23655e3843dde6603d109ca043d3506dc2107af14843a4512ae304e5a5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0034_000.markers.yaml, hash: 'sha256:bb16fdd8c7d6a1ad356a1286b181832faf8bac8b03e4bb015bb25d62ebd58e07'}
+  - {seq: 0, role: markers, filename: assets/KR6f0034_000.markers.yaml, hash: 'sha256:39d6d2a5e3d644b1310dea6c2cbd3c7b585fec034cd5e62fce2fdf4dffc438ae'}
   - {seq: 1, role: markers, filename: assets/KR6f0034_001.markers.yaml, hash: 'sha256:60f4f87e52e4da270f4fc1466950476692fbd8d09d1d165d5dba07a163865e8a'}
   - {seq: 2, role: markers, filename: assets/KR6f0034_002.markers.yaml, hash: 'sha256:cb4f8a50c45b467c60cc235314ddeda0802167be976ded47e38212fec0f3f060'}
 table_of_contents:
@@ -70,7 +70,7 @@ table_of_contents:
   label: 佛說如幻三昧經卷下
   type: juan
   level: 1
-hash: sha256:aefd74fc4ccdface4399e08adcd75573c8653c50561c226c7c7be8344e4ffb29
+hash: sha256:359504c618a6f8e4f3df42265fb66c6a8a41ba97f20595b884dad07e96fe1a21
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

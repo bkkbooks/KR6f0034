@@ -23,7 +23,7 @@ assets:
   - {seq: 1, filename: KR6f0034_001-T.yaml, hash: 'sha256:c7d1930de10aaa791ac83eec134f7c269ae549452423244e044a2eb7fb982d08'}
   - {seq: 2, filename: KR6f0034_002-T.yaml, hash: 'sha256:ab545fd088b99c03ee518fd026232491fcac9c9e18dbbc0d968eda5bcde7da78'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0034_000-T.markers.yaml, hash: 'sha256:852e08718bbb7c1612ceee989d06506549af475a0ed29d4e852e00d9f286ff4e'}
+  - {seq: 0, role: markers, filename: assets/KR6f0034_000-T.markers.yaml, hash: 'sha256:d6fd7ace11d8a4c4d1db5b04ba1462fa1468ca1dce5b58200c3b02c621ca8286'}
   - {seq: 1, role: markers, filename: assets/KR6f0034_001-T.markers.yaml, hash: 'sha256:b0965baa40ea80fdf4ec258d465bb73eb6d5205a2559440a31c53b68365e7096'}
   - {seq: 2, role: markers, filename: assets/KR6f0034_002-T.markers.yaml, hash: 'sha256:51b566b24aaa22d00ca283ba5932ca583261ca75f8b839c996e6d1df93f649aa'}
 table_of_contents:
@@ -47,4 +47,4 @@ table_of_contents:
   label: 佛說如幻三昧經卷下
   type: juan
   level: 1
-hash: sha256:a63b3b9fec4c67a6d532cb80b29f0385d89b6e921b7bb599de391bcdc8e8e5c3
+hash: sha256:5b33a188831d373d3e6ffa3a0cac127c2a0063f9b64ed689ebe3a4de063a0382
